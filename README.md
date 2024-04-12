@@ -1,16 +1,14 @@
-### Hi there 👋
+### Boas vindas ao meu perfil ❤️
 
-<!--
-**marialima05/marialima05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Maria Lima
 
-Here are some ideas to get you started:
+- Estou estudando no [alura](https://www.alura.com.br)
+- Estou iniciando no alura
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Você pode entrar em contato comigo 📧
+
+ 
+  maria.oliveira.lima05@escola.pr.gov.br
+
+![](https://media1.tenor.com/m/kn_XRI5Ox_4AAAAC/thumbs-up-%D8%A7%D9%84%D8%A5%D8%A8%D9%87%D8%A7%D9%85.gif)
+  
